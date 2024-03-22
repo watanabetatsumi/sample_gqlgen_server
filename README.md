@@ -1,0 +1,2 @@
+# sample_gqlgen_server
+sample_gqlgen_server
